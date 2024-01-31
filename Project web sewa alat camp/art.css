@@ -1,0 +1,143 @@
+/*  */
+/*  */
+/* kode buat CLASS */
+/*  */
+/*  */
+
+.toleft {
+    float: left;
+}
+.toright {
+    float: right;
+    padding: 15px;
+}
+.head {
+    display: block;
+}
+
+.hlbox {
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+}
+
+.toright:hover {
+    display: block;
+    background-color: rgb(169, 75, 41);
+    color: rgb(249, 230, 206);
+    cursor: pointer;
+}
+
+.pargr {
+    display: inline-block;
+    padding-top: 10px;
+    margin-top: -15px;
+    width: 40%;
+    text-align: justify;
+}
+
+.contl0 {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+}
+/*  */
+/*  */
+/* kode buat ID */
+/*  */
+/*  */
+
+#logo {
+    padding-left: px;
+    color:rgb(169, 75, 41);
+}
+
+#GO {
+    background-color: rgb(249, 230, 206);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+
+#utDoor {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#hl {
+    padding-right: 0px;
+}
+
+#hlleft {
+    float: left;
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 40%;
+    text-align: center;
+}
+
+#h2left {
+    float: left;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hlright {
+    float: right;
+    width: 45%;
+    height: 500px;
+    margin-right: -8px;
+    
+}
+
+#about {
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+    margin: 30px
+}
+
+#contact {
+    background-color: rgb(249, 230, 206);
+    display: flex;
+    width: 100%;
+    height: 350px;
+}
+
+#sat {
+    padding-left: 30px;
+}
+
+
+
+
+/*  */
+/*  */
+/* kode untuk Atrribute */
+/*  */
+/*  */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h2, h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+pre {
+    display: block;
+    margin-left: -10%;
+    text-align: left;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+img {
+    width: 15px;
+    height: 15px;
+}
